@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="" alt="Description of image" width="400"/>
+  <img src="http://some_place.com/image.png" />
 </p>
+
 
 <p align="center">
 ৎ     ᛝ   john  .៸៸ angel collective𝂅 ࣪.   ༝  .   .  ֹ   ₊ 
