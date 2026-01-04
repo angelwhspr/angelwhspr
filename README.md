@@ -3,15 +3,15 @@
 
 
 <p align="center">
-ৎ     ᛝ   john  .៸៸ angel collective𝂅 ࣪.   ༝  .   .  ֹ   ₊ 
+$$\color{#6aa0f7}{\text{ৎ     ᛝ   john  .៸៸ angel collective 𝂅 ࣪.   ༝  .   .  ֹ   ₊ }}$$
 </p>
 
 <p align="center">
-⠀ 𓏵⠀⠀⠀he⠀ ﾉ⠀him　　୧
+$$\color{#6aa0f7}{\text{⠀ 𓏵⠀⠀⠀he⠀ ﾉ⠀him　　୧}}$$
 </p>
 
 <p align="center">
-⋋  18　　    homestuck / roblox / mha 𓏏𓏏　
+$$\color{#6aa0f7}{\text{⋋  18　　    homestuck / roblox / mha 𓏏𓏏　}}$$
 </p>
 
 
