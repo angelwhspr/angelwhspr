@@ -9,7 +9,7 @@ $$\color{#6aa0f7}{\text{⟡‎ ‎ ‎ john ‎ ᶻ 𝗓 𐰁‎ ‎ ‎ sys‎ 
 
 $$\color{#6aa0f7}{\text{⠀ 𓏵⠀⠀⠀he⠀ ﾉ⠀him　　୧}}$$
 
-$$\color{#6aa0f7}{\text{⋋  18　　    homestuck / roblox / mha 𓏏𓏏　}}$$
+$$\color{#6aa0f7}{\text{⋋  18　　    homestuck / south park / roblox / mha 𓏏𓏏　}}$$
 
 <img
   src="https://github.com/user-attachments/assets/43175b33-a427-4316-a541-ac245269d984"
