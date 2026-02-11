@@ -5,7 +5,7 @@
   align="left"
 />
 
-$$\color{#6aa0f7}{\text{⟡‎ ‎ ‎ john ‎ ᶻ 𝗓 𐰁‎ ‎ ‎ sys‎ ‎ ‎  ๋࣭ ⭑}}$$
+$$\color{#6aa0f7}{\text{⟡‎ ‎ ‎ angel ‎ ᶻ 𝗓 𐰁‎ ‎ ‎ sys‎ ‎ ‎  ๋࣭ ⭑}}$$
 
 $$\color{#6aa0f7}{\text{⠀ 𓏵⠀⠀⠀he⠀ ﾉ⠀him　　୧}}$$
 
