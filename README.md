@@ -1,18 +1,1 @@
-<div align="center">
-<img
-  src="https://github.com/user-attachments/assets/4e969253-a2f4-4d99-bacc-66f55246d305"
-  width="400"
-  align="left"
-/>
-
-$$\color{#6aa0f7}{\text{⟡‎ ‎ ‎ angel ‎ ᶻ 𝗓 𐰁‎ ‎ ‎ sys‎ ‎ ‎  ๋࣭ ⭑}}$$
-
-$$\color{#6aa0f7}{\text{⠀ 𓏵⠀⠀⠀he⠀ ﾉ⠀him　　୧}}$$
-
-$$\color{#6aa0f7}{\text{⋋  18　　    homestuck / south park / roblox / mha 𓏏𓏏　}}$$
-
-<img
-  src="https://github.com/user-attachments/assets/43175b33-a427-4316-a541-ac245269d984"
-  width="300"
-  align="center"
-  />
+<p align="center"> <img width="320" src="https://images-ext-1.discordapp.net/external/FH0DxCvbzVin8Ii3BMYPrTRUVV_RfBBkVvYRiwRcqOg/https/i.postimg.cc/Hky1WDTC/Untitled1737-20260705212236.png?format=webp&quality=lossless">
