@@ -1,1 +1,4 @@
-<p align="center"> <img width="320" src="https://images-ext-1.discordapp.net/external/FH0DxCvbzVin8Ii3BMYPrTRUVV_RfBBkVvYRiwRcqOg/https/i.postimg.cc/Hky1WDTC/Untitled1737-20260705212236.png?format=webp&quality=lossless">
+
+<p align="center">
+    <img src="https://images-ext-1.discordapp.net/external/FH0DxCvbzVin8Ii3BMYPrTRUVV_RfBBkVvYRiwRcqOg/https/i.postimg.cc/Hky1WDTC/Untitled1737-20260705212236.png?format=webp&quality=lossless" alt="Description" width="700">
+</p>
