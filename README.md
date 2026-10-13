@@ -7,5 +7,5 @@
 </p>
 
 <div align="center">
-  <a href="https://angelwhspr.atabook.org/">ATA</a> ‎ ‎  <a href="https://pronouns.cc/@angelwhspr">PRN</a>
+  <a href="https://angelwhspr.atabook.org/">ATA</a> ⠀⠀⠀⠀⠀ <a href="https://pronouns.cc/@angelwhspr">PRNS</a>
 </div>
